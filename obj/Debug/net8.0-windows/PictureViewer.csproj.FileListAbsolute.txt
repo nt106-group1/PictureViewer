@@ -14,3 +14,4 @@ D:\NT106\PictureViewer\obj\Debug\net8.0-windows\refint\PictureViewer.dll
 D:\NT106\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.pdb
 D:\NT106\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.genruntimeconfig.cache
 D:\NT106\PictureViewer\obj\Debug\net8.0-windows\ref\PictureViewer.dll
+D:\NT106\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.sourcelink.json
